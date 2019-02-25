@@ -1,0 +1,29 @@
+{
+  "name": "generator-ttn-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "yeoman-generator",
+    "basic web app generator",
+    "sass and css loader"
+  ],
+  "files": [
+    "generators"
+  ],
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varnitgoyal/generator-ttn-webapp"
+  },
+  "homepage": "https://github.com/varnitgoyal/generator-ttn-webapp",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varnit Goyal",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^3.2.0"
+  }
+}
