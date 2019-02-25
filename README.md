@@ -1,24 +1,24 @@
 # generator-ttn-webapp
 
-##Introduction
+## Introduction
 This is the generator of a basic web app based on best practices recommended by TTN 
 
-##Getting Started 
+## Getting Started 
 
-###install npm 
+### install npm 
 
 ```
 apt install install nodejs
 ```
 
-###Install yeoman package globally
+### Install yeoman package globally
 
 ```
 npm i -g yeoman
 
 ````
 
-###Install ttn-generator package 
+### Install ttn-generator package 
 
 ```
 npm i -g generator-ttn-webapp
@@ -32,21 +32,21 @@ yo ttn-webapp
 
 ```
 
-##Using the template 
+## Using the template 
 
-###Installing Dependencies 
+### Installing Dependencies 
 ```
 npm install
 ```
 
-###Using webpack
+### Using webpack
 
 ```
 npm run build 
 
 ```
 
-###Runing dev server
+### Runing dev server
 
 ```
 npm run dev 
